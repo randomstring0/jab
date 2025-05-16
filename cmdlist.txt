@@ -1,4 +1,4 @@
-// "Just a baseplate." command list :
+// "Just /a /baseplate." command list :
 
 -re -- respawn (safe)
 -rs -- respawn on current position (safe)
