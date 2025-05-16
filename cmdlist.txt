@@ -1,0 +1,24 @@
+// "Just a baseplate." command list :
+
+-re -- respawn (safe)
+-rs -- respawn on current position (safe)
+-gr -- respawn (unsafe)
+-pd -- permanent death
+-gh {hatid} / stackable -- give hat
+-rj -- rejoin
+-buy {catalogid} / not stackable -- buy hat
+-sit / toggle -- character humanoid sit state
+-renim / toggle -- disable animation
+-dummy -- spawn dummy for several minutes
+-noclip -- wall clip (unsafe)
+-net -- network owner for every part inside local character
+-r15 -- convert R6 character to R15
+-r6 -- convert R15 character to R6
+-s15 -- prompt save character into R15
+-s6 -- prompt save character into R6
+
+====== Upcoming/Leaked Commands =======
+
+-sh -- save character current hats to load every spawn
+-ch -- clear character current hats, -gh hats stack, -sh 
+
