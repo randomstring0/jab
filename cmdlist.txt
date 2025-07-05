@@ -6,7 +6,7 @@
 -pd -- permanent death
 -gh {hatid} / stackable -- give hat
 -rj -- rejoin
--buy {catalogid} / not stackable -- buy hat
+-buy <catalogid> / not stackable -- buy hat
 -sit / toggle -- character humanoid sit state
 -renim / toggle -- disable animation
 -dummy -- spawn dummy for several minutes
@@ -17,5 +17,5 @@
 -s15 -- prompt save character into R15
 -s6 -- prompt save character into R6
 -sh -- save character current hats to load every spawn
--ch -- clear character current hats, -gh hats stack, -sh 
+-ch -- clear character current hats, -gh hats stack, and clear -sh 
 
