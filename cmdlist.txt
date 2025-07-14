@@ -17,5 +17,5 @@
 -s15 -- prompt save character into R15
 -s6 -- prompt save character into R6
 -sh -- save character current hats to load every spawn
--ch -- clear character current hats, -gh hats stack, and clear -sh 
+-ch -- clear character current hats, and clear -sh 
 
