@@ -1,21 +1,22 @@
 // "Just /a /baseplate." command list :
+--//2024 - 2026//--
 
--re -- respawn (safe)
--rs -- respawn on current position (safe)
+-re -- respawn (character fast respawn)
+-rs -- respawn on current position (same like re but spawn on current location)
 -gr -- respawn (unsafe)
--pd -- permanent death
--gh {hatid} / stackable -- give hat
+-pd -- permanent death / toggle (no respawning or you can use 2021 pd method)
+-gh {hatid} / stackable -- give hat (have limit)
 -rj -- rejoin
--buy <catalogid> / not stackable -- buy hat
--sit / toggle -- character humanoid sit state
--renim / toggle -- disable animation
--dummy -- spawn dummy for several minutes
--noclip -- wall clip (unsafe)
--net -- network owner for every part inside local character
+-buy <catalogid/hatid> / not stackable -- prompt buy hat (deprecated)
+-sit / toggle -- make character sit
+-renim / toggle -- disable animation script
+-dummy -- spawn dummy (after 2024 only spawn for several minute)
+-noclip -- wall clip (deprecated)
+-net -- give networkownership access to character
 -r15 -- convert R6 character to R15
 -r6 -- convert R15 character to R6
 -s15 -- prompt save character into R15
 -s6 -- prompt save character into R6
--sh -- save character current hats to load every spawn
--ch -- clear character current hats, and clear -sh 
+-sh -- save character current hats to load every spawn (only save hats from gh)
+-ch -- clear character current hats, and clear saved hats
 
