@@ -4,7 +4,7 @@
 -re -- respawn (character fast respawn)
 -rs -- respawn on current position (same like re but spawn on current location)
 -gr -- respawn (unsafe)
--pd -- permanent death / toggle (no respawning or you can use 2021 pd method)
+-pd -- permanent death / toggle (no respawning or you can just use 2021 pd method with script)
 -gh {hatid} / stackable -- give hat (have limit)
 -rj -- rejoin
 -buy <catalogid/hatid> / not stackable -- prompt buy hat (deprecated)
