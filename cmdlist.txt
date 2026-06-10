@@ -5,14 +5,14 @@
 -rs -- refresh on current position (same like re but spawn on current location)
 -gr -- respawn (unsafe)
 -pd -- permanent death / toggle (no respawning or you can just use 2021 pd method with script)
--gh {hatid} / stackable -- give hat (have limit)
+-gh {hatid} / stackable -- give hat (have limit), 4/2026 now required to join the community or have atleast +600 minute to use and hat limit may be lower
 -rj -- rejoin
 -buy <catalogid/hatid> / not stackable -- prompt buy hat (deprecated)
 -sit / toggle -- make character sit
 -renim / toggle -- disable animation script
 -dummy -- spawn dummy (after 2024 only spawn for several minute)
 -noclip -- wall clip (deprecated)
--net -- give networkownership access to character
+-net -- give networkownership access to character, 4/2026 now required +600 minutes to use
 -r15 -- convert R6 character to R15
 -r6 -- convert R15 character to R6
 -s15 -- prompt save character into R15
