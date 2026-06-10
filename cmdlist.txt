@@ -4,7 +4,7 @@
 -re -- respawn (character fast respawn)
 -rs -- refresh on current position (same like re but spawn on current location)
 -gr -- respawn (unsafe)
--pd -- permanent death / toggle (no respawning or you can just use 2021 pd method with script)
+-pd -- permanent death / toggle (no respawning or you can just use legacy pd method with script)
 -gh {hatid} / stackable -- give hat (have limit), 4/2026 now required to join the community or have atleast +600 minute to use and hat limit may be lower
 -rj -- rejoin
 -buy <catalogid/hatid> / not stackable -- prompt buy hat (deprecated)
