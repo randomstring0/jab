@@ -1,7 +1,7 @@
 // "Just /a /baseplate." command list :
 --//2024 - 2026//--
 
-jab is an archive for various fe reanimation from different eras and all of them can be reused in jab even if they have been patch a long time ago.
+"jab" is an archive for various FE reanimation from different eras, and the aim is for all of them to remain usable within "jab" even though they were originally patched long ago.
 
 -re -- respawn (character fast respawn)
 -rs -- refresh on current position (same like re but spawn on current location)
